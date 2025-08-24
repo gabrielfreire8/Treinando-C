@@ -1,0 +1,14 @@
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\bin\Debug\net9.0\c#-projeto.exe
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\bin\Debug\net9.0\c#-projeto.deps.json
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\bin\Debug\net9.0\c#-projeto.runtimeconfig.json
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\bin\Debug\net9.0\c#-projeto.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\bin\Debug\net9.0\c#-projeto.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.AssemblyInfoInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.AssemblyInfo.cs
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\refint\c#-projeto.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.pdb
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.genruntimeconfig.cache
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\ref\c#-projeto.dll
