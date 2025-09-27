@@ -12,3 +12,4 @@ C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\refint\c#-
 C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.pdb
 C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.genruntimeconfig.cache
 C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\ref\c#-projeto.dll
+C:\Users\gabri\OneDrive\Área de Trabalho\c#-projeto\obj\Debug\net9.0\c#-projeto.sourcelink.json
